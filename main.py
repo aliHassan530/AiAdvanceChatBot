@@ -148,7 +148,7 @@ Perfect for retail, grocery, restaurants, cafes, clothing, and electronics store
 === SUPPORTED PLATFORMS ===
 - Web App: app.themetasum.com
 - Android Apps (above links)
-- iOS Apps on App Store more things
+- iOS Apps on App Store more things more details
 - Windows Desktop App (with offline support)
 
 All platforms sync in real-time with one account.
