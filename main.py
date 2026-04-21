@@ -255,4 +255,6 @@ async def chat(request: ChatRequest):
 async def health():
     return {"status": "running", "message": "MetaSum POS Chatbot is live!"}
 
+
+handler = Mangum(app)
 # Run: uvicorn main:app --reload
